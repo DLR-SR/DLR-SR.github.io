@@ -18,4 +18,6 @@ layout: default
 * Franciscus L. J. van der Linden, Andreas Klöckner and Dirk Zimmer. 
   [Effects of Event-Free Noise Signals on Continuous-Time Simulation Performance]
   (https://github.com/DLR-SR-Papers/linden2015effects).
-  8th Vienna International Conference on Mathematical Modelling, **in press**
+  8th Vienna International Conference on Mathematical Modelling, 2015.
+  [DOI:10.1016/j.ifacol.2015.05.039]
+  (http://dx.doi.org/10.1016/j.ifacol.2015.05.039)
