@@ -22,3 +22,8 @@ layout: default
   8th Vienna International Conference on Mathematical Modelling, 2015.
   [DOI:10.1016/j.ifacol.2015.05.039]
   (http://dx.doi.org/10.1016/j.ifacol.2015.05.039)
+* Andreas Klöckner, Andreas Knoblach and Andreas Heckmann.
+  [How to Shape Noise Spectra for Continuous System Simulation]
+  (https://github.com/DLR-SR-Papers/kloeckner2015how).
+  11th International Modelica Conference, 2015.
+  In Press.
