@@ -13,6 +13,7 @@ layout: default
 
 ## Repositories of associated researchers
 * [PySimulator]    (https://github.com/PySimulator/PySimulator)
+* [ZimmersModelicaTutorial](https://github.com/dzimmer/ZimmersModelicaTutorial)
 
 # Reproducible research
 * Franciscus L. J. van der Linden, Andreas Klöckner and Dirk Zimmer. 
