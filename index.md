@@ -4,7 +4,7 @@ layout: default
 
 # Repositories
 
-## Modelica libraries
+## Open source Modelica libraries
 * [Modelica_Noise] (https://github.com/DLR-SR/Noise)
 * [AdvancedNoise]  (https://github.com/DLR-SR/AdvancedNoise)
 * [PlanarMechanics](https://github.com/DLR-SR/PlanarMechanics)
