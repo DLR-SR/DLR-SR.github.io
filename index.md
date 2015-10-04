@@ -26,4 +26,5 @@ layout: default
   [How to Shape Noise Spectra for Continuous System Simulation]
   (https://github.com/DLR-SR-Papers/kloeckner2015how).
   11th International Modelica Conference, 2015.
-  In Press.
+  [DOI:10.3384/ecp15118411]
+  (http://dx.doi.org/10.3384/ecp15118411)
