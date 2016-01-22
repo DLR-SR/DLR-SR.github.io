@@ -28,3 +28,7 @@ layout: default
   11th International Modelica Conference, 2015.
   [DOI:10.3384/ecp15118411]
   (http://dx.doi.org/10.3384/ecp15118411)
+* Alexander Pollok and Andreas Klöckner.
+  [The Use of Ockhams Razor in Object-Oriented Modelling]
+  (https://github.com/DLR-SR-Papers/pollok2016use).
+  Submitted to Equation-Based Object-Oriented Modeling Languages and Tools (EOOLT), 2016.
