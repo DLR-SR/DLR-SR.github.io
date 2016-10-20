@@ -12,7 +12,7 @@ layout: default
 * [FractionalOrder](https://github.com/DLR-SR/FractionalOrder)
 
 ## Repositories of associated researchers
-* [PySimulator]    (https://github.com/PySimulator/PySimulator)
+* [PySimulator](https://github.com/PySimulator/PySimulator)
 * [ZimmersModelicaTutorial](https://github.com/dzimmer/ZimmersModelicaTutorial)
 
 # Reproducible research
