@@ -33,7 +33,7 @@ layout: default
   (https://github.com/DLR-SR-Papers/pollok2016use).
   Submitted to Equation-Based Object-Oriented Modeling Languages and Tools (EOOLT), 2016.
 
-# Other DLR institutes
+# Other DLR institutes 
 * Earth Observation Center,           [@DLR-EOC](https://github.com/DLR-EOC)
 * Simulation and Software Technology, [@DLR-SC] (https://github.com/DLR-SC)
 * Air Transportation Systems,         [@DLR-LY] (https://github.com/DLR-LY)
